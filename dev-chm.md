@@ -23,6 +23,21 @@
 >* obj: 返回一个对象，可以包含数组等。
 >* message: 返回一个对应的消息，字符型。
 
+```json
+{
+    "flag": true,
+    "obj": {
+        "user_id": "DEpikfExyWNj6wHsBWX42npbNYA8JzWZ",
+        "user_name": "000",
+        "user_pwd": "1111",
+        "user_phone": "18311338843",
+        "user_token": "2222",
+        "user_createtime": "2017-11-23",
+        "user_role": "1"
+    }
+}
+```
+
 
 
 

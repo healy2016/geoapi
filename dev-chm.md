@@ -36,7 +36,6 @@
         "user_role": "1"
     },
     "message": success
-
 }
 ```
 

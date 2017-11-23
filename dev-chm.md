@@ -35,7 +35,7 @@
         "user_createtime": "2017-11-23",
         "user_role": "1"
     },
-    "message": success,
+    "message": success
 
 }
 ```

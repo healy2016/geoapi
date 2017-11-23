@@ -17,7 +17,7 @@
 >* 描述： 注册用户
 
 ###3.登录
->* 接口URL： /pub/index/register
+>* 接口URL： /pub/index/login
 >* 请求方式： post
 >* 参数： 
     *  body:请求体

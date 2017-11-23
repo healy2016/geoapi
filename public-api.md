@@ -9,3 +9,11 @@
     *  account.hash : 哈希密码
 >* 描述： 登录验证
 
+###2.注册
+>* 接口URL： /pub/index/register
+>* 请求方式： post
+>* 参数： 
+    *  body:请求体
+>* 描述： 登录验证
+
+

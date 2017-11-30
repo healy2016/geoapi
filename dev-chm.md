@@ -41,6 +41,24 @@
 }
 ```
 
+```js
+    this.$http.get('/pub/index/login', '').then((response) => {
+      // 响应成功回调
+      console.log('response:::' + response.data)
+      const res = response.data
+      if (res.flag) {
+      
+      } else {
+	
+      }
+    }, (response) => {
+      // 响应错误回调
+      
+    })
+```
+
+
+
 
 
 

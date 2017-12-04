@@ -18,8 +18,11 @@
  >* cookie-parser：cookie管理
  >* sequelize:数据库的ORM映射管理
  >* postgres:后台数据库支持gis函数
+ 
+###5.工程目录结构简要说明
+![](/assets/QQ图片20171204163951.png)
 
-###3.接口规范管理
+###4.接口规范管理
 
 ####返回一个json数据，里面自带三个参数如下：
 >* flag: 返回Boolean类型，true or false;

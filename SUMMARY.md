@@ -6,4 +6,7 @@
 * [私有api接口](private-api.md)
   * [users-api](users-api.md)
   * [prices-api](prices-api.md)
+  * [shares-api](shares-api.md)
+  * [cases-api](cases-api.md)
+  * myapps-api
 

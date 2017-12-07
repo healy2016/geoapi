@@ -8,5 +8,5 @@
   * [prices-api](prices-api.md)
   * [shares-api](shares-api.md)
   * [cases-api](cases-api.md)
-  * myapps-api
+  * [myapps-api](myapps-api.md)
 

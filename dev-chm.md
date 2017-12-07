@@ -45,7 +45,7 @@
     "message": success
 }
 ```
-
+####示例：vue-resource请求
 ```js
     this.$http.get('/pub/index/login', '').then((response) => {
       // 响应成功回调

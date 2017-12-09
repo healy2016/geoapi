@@ -61,6 +61,11 @@
       
     })
 ```
+####常用方法
+```js
+var obj = JSON.parse(str); //由JSON字符串转换为JSON对象
+```
+
 
 
 

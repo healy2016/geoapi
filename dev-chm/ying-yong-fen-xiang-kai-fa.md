@@ -14,6 +14,9 @@
     数据字段名称表：gty_data_columnvalue 
     用户购买记录： gty_data_column
     用户地图数据表：gty_user_data
+>* seafile：common.getLibInfo
+
+
 
 
 

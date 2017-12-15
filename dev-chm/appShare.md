@@ -23,6 +23,7 @@
 
 ###控制台接口开发文档--我的数据
 
+####1.我的数据
 >* 位置：routes/mydata.js
 >* table：
     数据字段名称表：gty_data_columnvalue 

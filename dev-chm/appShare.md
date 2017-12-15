@@ -16,6 +16,14 @@
     用户地图数据表：gty_user_data
 >* seafile：common.getLibInfo 获取文件的详细信息
 
+####3.退出账号
+>* 位置：routes/users.js
+>* 操作：清空cookie即可
+
+
+
+
+
 
 
 
